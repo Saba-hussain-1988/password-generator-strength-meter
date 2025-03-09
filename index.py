@@ -168,7 +168,7 @@ def main():
     st.markdown(
         """
             <footer style="text-align: center; padding: 10px; background-color: #f0f0f0;">
-                Developed by <a href="mailto:srchohan@gmail.com">S.R.Chohan</a> &copy; 2023
+                Developed by <a href="mailto:sabamustafa27.88@gmail.com">S.R.Chohan</a> &copy; 2023
             </footer>
         """,
         unsafe_allow_html=True
