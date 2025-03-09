@@ -165,6 +165,16 @@ def main():
                 st.subheader("For Strong Password:")
                 for error in errors:
                     st.write(f"* {error}")
+    st.markdown(
+        """
+            <footer style="text-align: center; padding: 10px; background-color: #f0f0f0;">
+                Developed by <a href="mailto:srchohan@gmail.com">S.R.Chohan</a> &copy; 2023
+            </footer>
+        """,
+        unsafe_allow_html=True
+    )
+
+
 
 if __name__ == "__main__":
     main()
